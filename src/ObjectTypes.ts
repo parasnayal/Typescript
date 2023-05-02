@@ -1,0 +1,1 @@
+console.log(" ======> Information about the object type <======")
